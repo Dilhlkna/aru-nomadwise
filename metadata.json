@@ -1,0 +1,6 @@
+{
+  "name": "NomadWise - Валюта айырбастау және виртуалды әмияндар",
+  "description": "Wise үлгісіндегі заманауи финтех валюта айырбастау веб-қосымшасы және Java 21 / Spring Boot толыққанды оқу-тәжірибелік архитектуралық жүйесі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
